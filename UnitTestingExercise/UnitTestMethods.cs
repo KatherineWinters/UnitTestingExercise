@@ -45,8 +45,5 @@ namespace UnitTestingExercise
             else
                 return false;
         }
-        // Create 2 methods that will utilize the [Fact] tests you wrote
-
-
     }
 }
